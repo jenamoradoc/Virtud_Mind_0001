@@ -1,0 +1,26 @@
+body {
+  background-color: #34495e;
+}
+
+h3 {
+  text-align: center;
+  padding: 30px;
+  font-size: 20px;
+  color: #fff;
+}
+
+p[class^='t_'] {
+  text-align: right;
+}
+
+.card {
+  margin: 10px;
+}
+
+.stock-number {
+  font-size: 30px !important; 
+}
+
+.card-text {
+  margin-bottom: 0 !important;
+}
